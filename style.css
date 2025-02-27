@@ -1,0 +1,45 @@
+/* import Google Fonts -Montserrat */
+* {
+  font-family: "Montserrat", serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    /* bleu clair */
+    background-color: lightblue;
+}
+
+.config-container {
+    width:  415px;
+    padding: 25px;
+    text-align: center;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.13);
+}
+
+.config-container .config-title {
+    font-size: 1.4rem;
+}
+
+.config-container .config-option {
+    margin-top: 24x;
+}
+
+.config-container button {
+    margin-top: 24px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background: #007bff;
+    color: #fff;
+    cursor: pointer;
+   
+}
