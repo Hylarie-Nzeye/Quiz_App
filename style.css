@@ -215,9 +215,10 @@ body {
 
 }
 .quiz-footer .next-question-btn{
- display: inline-flex;
+    display: inline-flex;
     align-items: center;
     gap: 5px; 
+    visibility: hidden;
     padding: 9px 17px;
 }
 .result-container{
