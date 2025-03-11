@@ -33,6 +33,12 @@ Die App basiert auf einem modernen Web-Stack:
 ## 📸 Screenshots
 Hier sind einige Screenshots der Anwendung:
 
+![Screenshot 1](images/Screenshot1.png)
+![Screenshot 2](images/Screenshot2.png)
+![Screenshot 3](images/Screenshot3.png)
+![Screenshot 4](images/Screenshot4.png)
+![Screenshot 5](images/Screenshot5.png)
+
 ![Quiz Start](images\Screenshot1.png)
 ![Fragenansicht](images\Screenshot2.png)
 ![](images\Screenshot3.png)
