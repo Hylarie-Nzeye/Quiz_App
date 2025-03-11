@@ -14,7 +14,7 @@ Eine leistungsstarke, interaktive Quiz-Anwendung, entwickelt mit modernen Web-Te
 ### 1️⃣ Installation
 1. Repository klonen oder als ZIP herunterladen:
    ```sh
-   git clone [<repository-url>](https://github.com/Hylarie-Nzeye/Quiz_App.git)
+   git clone https://github.com/Hylarie-Nzeye/Quiz_App.git
    ```
 2. Navigiere zum Projektordner und öffne `index.html` in einem Browser.
 
